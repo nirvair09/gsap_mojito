@@ -1,6 +1,7 @@
 import { useGSAP } from '@gsap/react';
 import gsap from "gsap";
 import React, { useRef } from 'react'
+import { SplitText } from 'gsap/all';
 import { useMediaQuery } from 'react-responsive';
 
 const Hero = () => {
